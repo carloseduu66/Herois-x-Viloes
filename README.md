@@ -1,4 +1,4 @@
-# Heróis x Vilões
+# Heróis x Vilões 
 
 Este é um jogo desenvolvido em **HTML, CSS e JavaScript** onde jogadores escolhem heróis e vilões para enfrentar uma batalha. O objetivo é calcular a força de cada lado e determinar o vencedor, com base na força total dos heróis e vilões.
 
