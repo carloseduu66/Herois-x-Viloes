@@ -14,6 +14,7 @@ Este é um jogo desenvolvido em **HTML, CSS e JavaScript** onde jogadores escolh
 - **JavaScript (ES6+)** para lógica do jogo.
 
 ## 📂 Estrutura do Projeto
+```
 Herois-x-Viloes/
 │-- aula04.html  # Arquivo principal do jogo
 │-- style.css   # Estilos do jogo
